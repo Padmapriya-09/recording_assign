@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826924932029",
+    "project_id": "recording-assignment",
+    "storage_bucket": "recording-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826924932029:android:8be2732460996d587590d4",
+        "android_client_info": {
+          "package_name": "com.example.recording_assign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826924932029-vff04i6dm5gb22j679909925gl1bv882.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcMpd4yChhXBrwcawTxmLnorS-9QCukc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826924932029-vff04i6dm5gb22j679909925gl1bv882.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
